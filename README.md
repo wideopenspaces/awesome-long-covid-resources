@@ -23,7 +23,9 @@
 - TBD
 
 ### Treatment & Management
-*There are no currently approved treatments for Long Covid.* However, significant research is underway, and 
+*There are no currently approved treatments for Long Covid.* However, significant research is underway, and
+many of the systemic effects and symptoms of Long Covid can be improved by medical, supplemental, and or mental 
+health interventions. **Any treatment, including supplements, should be discussed with a health professional before attempting.**
 - **Physicans & Clinics** treating Long Covid
   - [Long Covid Doctors](https://longcoviddoctors.org/) - Find a doctor to treat your long covid symptoms.
 
