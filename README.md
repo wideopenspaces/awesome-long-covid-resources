@@ -11,13 +11,14 @@ Just getting things rolling. More to come.
 ## Support
 ### for Patients
 
-- [Long Covid Subreddits](https://www.reddit.com/user/milajake/m/covid_lc/new/) - Curated list of Long Covid support group and news subreddits.
+- **Reddit**
+  - [Long Covid Subreddits](https://www.reddit.com/user/milajake/m/covid_lc/new/) - Curated list of Long Covid support group and news subreddits.
 
 ### for Family, Friends & Caregivers
 - [Marked By Covid](https://www.markedbycovid.com/) - Support for family of longhaulers.
 
 ## Software
-- [Bearable](https://bearable.app/) - mobile app for mood & symptom tracking based on lifestyle, medication and other factors.
+- [Bearable](https://bearable.app/) - mobile app for mood & symptom tracking based on lifestyle, medication and other factors. (iOS/Android)
 
 ## Healthcare Resources
 - [Long Covid Doctors](https://longcoviddoctors.org/) - Find a doctor to treat your long covid symptoms.
