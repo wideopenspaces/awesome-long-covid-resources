@@ -1,2 +1,3 @@
-# awesome-long-covid-resources
-Awesome Long Covid Resources
+# Awesome Long Covid Resources
+
+Just getting things rolling. More to come.
